@@ -18,11 +18,11 @@ Transformo datos complejos y dispersos en modelos analíticos confiables, métri
 
 ### 🚀 Proyectos Destacados (Portfolio)
 
-#### 1. [Nombre del Proyecto 1 - Dashboard Operativo en Power BI]
+#### 1.[Clinical Asset Service Operations & SLA Dashboard]
 > *Optimización de tiempos de respuesta y análisis de ciclo de vida mediante esquemas dimensionales.*
 - **Stack:** Power BI, DAX, Power Query, SQL.
 - **Impacto:** Modelo dimensional estrella que centraliza +50K registros, reduciendo inconsistencias de métricas operativas en un 30%.
-- [🔗 Ver Repositorio y Documentación](link-a-tu-repo)
+- [🔗 Ver Repositorio y Documentación](https://github.com/aambrosiovillanueva-coder/healthcare-service-operations-analytics](https://github.com/aambrosiovillanueva-coder/healthcare-service-operations-analytics)
 
 #### 2. [Nombre del Proyecto 2 - Pipeline Analítico con DuckDB y Polars]
 > *Procesamiento y análisis de grandes volúmenes de datos en memoria local sin infraestructura pesada.*
