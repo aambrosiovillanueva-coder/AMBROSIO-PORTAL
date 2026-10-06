@@ -33,5 +33,5 @@ Transformo datos complejos y dispersos en modelos analíticos confiables, métri
 ---
 
 ### 📫 Conectemos
-- **LinkedIn:**https://www.linkedin.com/in/oscar-alejandro-ambrosio-villanueva-1518a6262/
-- **Correo:**a.ambrosiovillanueva@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/oscar-alejandro-ambrosio-villanueva-1518a6262/
+- **Correo:** a.ambrosiovillanueva@gmail.com
