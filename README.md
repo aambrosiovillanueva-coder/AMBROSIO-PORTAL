@@ -22,7 +22,7 @@ Transformo datos complejos y dispersos en modelos analíticos confiables, métri
 > *Optimización de tiempos de respuesta y análisis de ciclo de vida mediante esquemas dimensionales.*
 - **Stack:** Power BI, DAX, Power Query, SQL.
 - **Impacto:** Modelo dimensional estrella que centraliza +50K registros, reduciendo inconsistencias de métricas operativas en un 30%.
-- [🔗 Ver Repositorio y Documentación](https://github.com/aambrosiovillanueva-coder/healthcare-service-operations-analytics](https://github.com/aambrosiovillanueva-coder/healthcare-service-operations-analytics)
+- [🔗 Ver Repositorio y Documentación](https://github.com/aambrosiovillanueva-coder/healthcare-service-operations-analytics)
 
 #### 2. [Nombre del Proyecto 2 - Pipeline Analítico con DuckDB y Polars]
 > *Procesamiento y análisis de grandes volúmenes de datos en memoria local sin infraestructura pesada.*
